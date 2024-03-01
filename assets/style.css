@@ -205,6 +205,7 @@ body {
 .card:hover {
   transform: translateY(-1rem);
   box-shadow: none;
+  cursor: pointer;
 }
 
 .blog-author > p,
@@ -254,6 +255,7 @@ body {
 
 .blog-title:hover {
   color: var(--web-primary-color);
+  cursor: pointer;
 }
 
 @media screen and (min-width: 27.813rem) {
