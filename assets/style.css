@@ -252,6 +252,10 @@ body {
   margin: 1.25rem 0 0.938rem;
 }
 
+.blog-title:hover {
+  color: var(--web-primary-color);
+}
+
 @media screen and (min-width: 27.813rem) {
   .blog-img {
     width: 20.938rem;
